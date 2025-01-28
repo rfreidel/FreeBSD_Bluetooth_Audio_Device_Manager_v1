@@ -1,5 +1,6 @@
 # FreeBSD_Bluetooth_Audio_Device_Manager_v1
-A pleasant GUI to control Bluetooth on FreeBSD wayland xorg compatible, simple to configure, each step is logged (I hope)
+A pleasant GUI to control Bluetooth on FreeBSD wayland xorg compatible, simple to configure, 
+each step is logged (I hope)
 ## Installation
 If you currently have python3 installed and can configure python venv to run it in, I would recommend this. All you need to do is download 
 `bluetooth_manager.py` and if you have at some point in time prior to executing `python3 bluetooth_manager.py` had connected to a device 
