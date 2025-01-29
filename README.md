@@ -1,6 +1,6 @@
 # FreeBSD_Bluetooth_Audio_Device_Manager_v1
 
-# USe only -patch-1
+# Use only -patch-1
 
 A pleasant GUI to control Bluetooth on FreeBSD wayland xorg compatible, simple to configure, 
 each step is logged (I hope).
