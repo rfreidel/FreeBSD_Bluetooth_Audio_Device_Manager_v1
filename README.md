@@ -3,14 +3,17 @@
 # project built with c++
 
 A pleasant GUI to control Bluetooth on FreeBSD wayland xorg compatible, simple to configure, 
-each step is logged (I hope).
+each step is logged (I hope). 
+
+The was built, and compiled on FreeBSD 14.2-p1 using latest packagebase 
 
 Upon initial usage `setup.sh`, will check for gtk3, and you must have c++ to compile this
 
-This software is under development and as such may not work out of the box so to speak, but will if you scoll down to where the connection sequence is, and recall how you set things up manually to connect to your bluetooth device the last time, this is python and you must use python script language, if you have difficulty, contact me via the reddit post.
-# Note
+This software is under development and as such may not work out of the box so to speak, but will if you scoll down to where the connection sequence is, alter it to match your device
 
- Your user account needs to have acccess to hccontrol permissions for this to ever work
+ # Note
+ 
+ Your user account needs to have hccontrol permissions for this to ever work
 
 # Uninstall
 
