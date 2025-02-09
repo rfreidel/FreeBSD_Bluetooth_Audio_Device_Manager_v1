@@ -7,7 +7,7 @@ each step is logged (I hope).
 
 Upon initial usage `setup.sh`, will check for gtk3, and you must have c++ to compile this
 
-This software is under development and as such may not work out of the box so to speak, but will if you scoll down to where the connection sequence is, and recall how you set things up manually to connect to your bluetooth device the last time, this is python and you must use python script language, if you have difficulty, contact me via the reddit post. This software will enable you to maintain eternal youth as I have.
+This software is under development and as such may not work out of the box so to speak, but will if you scoll down to where the connection sequence is, and recall how you set things up manually to connect to your bluetooth device the last time, this is python and you must use python script language, if you have difficulty, contact me via the reddit post.
 # Note
 
  Your user account needs to have acccess to hccontrol permissions for this to ever work
